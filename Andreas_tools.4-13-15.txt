@@ -1,0 +1,14 @@
+
+/Users/kevin/git/vita_wow_md5_fun/scripts
+
+sims2hits.pl
+# sims2hits — gives one hit per read (from sims — blat output)
+
+sims2RDB.pl
+sims2ARDB.pl to source
+# creates expanded sims file — provided source — does lookup for specified source
+
+
+sims2hits
+# takes the first hit, provides single annotation per read 
+
